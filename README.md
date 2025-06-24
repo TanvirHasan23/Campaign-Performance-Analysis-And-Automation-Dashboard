@@ -10,7 +10,7 @@
 
 **Power Bi Dashboard** [View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjhiOGI0MzgtZTVjNi00MzgxLWFmODItZDE3YTNiZjVlNTAyIiwidCI6IjUyZjdkNjFhLTEyZmYtNDU3Ni04YjZhLWI0MDg1Y2ZmMzczZCIsImMiOjEwfQ%3D%3D)
 
-**Document** [Walkthrough report](https://github.com/AbuSufian-org/campaign-performance-analysis-and-automation-1800remodel/blob/main/campaign-performance-1800remodel/Report/CampaignPerformance.pdf)
+**Document** [Walkthrough report](https://github.com/TanvirHasan23/Campaign-Performance-Analysis-And-Automation-Dashboard/blob/main/campaign-performance-1800remodel/Report/CampaignPerformance.pdf)
 
 ## Business Problem
 
