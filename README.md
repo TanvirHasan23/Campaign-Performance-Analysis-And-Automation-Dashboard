@@ -1,7 +1,5 @@
 # Campaign-Performance-Analysis-And-Automation-Dashboard
 
-# Campaign Performance Analysis And Automation Dashboard
-
 **This is a real-world business analytics project** designed for **1800remodel.com**, a US-based home remodeling company. The goal was to analyze campaign performance data, automate reporting through SQL & Power BI, and uncover actionable marketing insights.
 
 ---
